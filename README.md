@@ -11,8 +11,14 @@ Our AI-based system uses computer vision models to detect accidents and analyze 
    ![Accident detection model in motion](images and videos/accident ai main.mp4)
 
 3. **Blood Detection Model**: A CNN-based model that analyzes video frames to detect blood, distinguishing it from other red objects.
+![presence of blood in accident](https://github.com/user-attachments/assets/05222ab7-22a9-4304-b582-9488bb9a9e96)
+![presence of blood correctly identified](https://github.com/user-attachments/assets/ed4b5d43-03b2-4769-b689-8a5204ba5280)
 
-   ![blood in image](/images and videos/bleeding in accident.jpeg)
+
+![red object](https://github.com/user-attachments/assets/3c68bdea-6494-4c3f-83dc-a897d837639f)
+![object is not confused with blood](https://github.com/user-attachments/assets/11edcebd-81be-4453-9efb-aed94eeba487)
+
+
 
 
 Both models work together to provide immediate alerts and evidence in case of an accident. Data is stored securely in the cloud, with automatic deletion every 30 days to optimize storage.
