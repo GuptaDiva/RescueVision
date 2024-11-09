@@ -7,9 +7,13 @@ This repository contains models and code for a camera-based AI system designed t
 Our AI-based system uses computer vision models to detect accidents and analyze injury presence in real-time. It consists of two main models:
 
 1. **Accident Detection Model**: Detects accidents from dashcam footage using YOLO (You Only Look Once).
+
    ![Accident detection model in motion](images and videos/accident ai main.mp4)
 
-2. **Blood Detection Model**: A CNN-based model that analyzes video frames to detect blood, distinguishing it from other red objects.
+3. **Blood Detection Model**: A CNN-based model that analyzes video frames to detect blood, distinguishing it from other red objects.
+
+   ![blood in image](images and videos/bleeding in accident.jpeg)
+
 
 Both models work together to provide immediate alerts and evidence in case of an accident. Data is stored securely in the cloud, with automatic deletion every 30 days to optimize storage.
 
