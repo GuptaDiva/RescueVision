@@ -1,8 +1,6 @@
 
-Accident detection model - v1 2023-04-19 9:03pm
-==============================
 
-This dataset was exported via roboflow.com on April 19, 2023 at 3:38 PM GMT
+This dataset was exported via roboflow.com 
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
